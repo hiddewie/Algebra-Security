@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1393707504 source:d:\dropbox\c++\a&s\inverse.cpp
+	<iostream>
+	<stdio.h>
+
+1397496116 source:d:\dropbox\c++\a&s\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<time.h>
+	<limits>
+	<map>
+	<set>
+	<thread>
+	<fstream>
+

@@ -1,0 +1,12 @@
+[0------------------------------50----------------------------100]
+--- Generating reverse save table ---
+[................................................................]
+--- Generating table from front ---
+[................................................................]
+--- Finding keys from back ---
+[]
+--- Done generating keys from back ---
+1 possible keys found
+Key {0, {0x5a, 0xee, 0x1b}, {0xca, 0xb2, 0x87}, {0x87, 0x87, 0x87}}: 
+algebra and security 191511410
+--- Done ---
